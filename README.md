@@ -1,7 +1,7 @@
 # Image-Segmentation
 
 ## Definition:
-It is a critical process in a computer vision. It involves dividing a visual input into segments to simplify  image analysis. Segments represent objects or parts of objects, and comprise sets of pixels, or “super-pixels”. Image segmentation sorts pixels into larger components, eliminating the need to consider individual pixels as units of observation.
+It is a critical process in a computer vision. It involves dividing a visual input into segments to simplify  image analysis. Segments represent objects or parts of objects, and comprise sets of pixels, or “super-pixels”. Image segmentation sorts pixels into larger components, eliminating the need to consider individual pixels as units of observation. As we are predicting for every pixel in the image, this task is commonly referred to as dense prediction.
 
 There are many types of image segmentation. But we only look in Semantic Segmentation.
 
