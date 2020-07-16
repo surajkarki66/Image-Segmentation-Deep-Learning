@@ -13,3 +13,5 @@ lib64
 /dataset
 /logs
 /models
+/data
+/weights
